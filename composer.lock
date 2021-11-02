@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f6ef6bb031ddb57b015dc7a94e0ce309",
+    "content-hash": "370cb2ace12d33768837db38098111b8",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -4502,16 +4502,16 @@
         },
         {
             "name": "yetiforce/yii2",
-            "version": "2.0.39.2",
+            "version": "2.0.43",
             "source": {
                 "type": "git",
                 "url": "https://github.com/YetiForceCompany/yii2-framework.git",
-                "reference": "d905788b495ef5832387cabe975949f5155544a2"
+                "reference": "672f0123882f71bf3cc3515c2cca2db6e91db21c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/YetiForceCompany/yii2-framework/zipball/d905788b495ef5832387cabe975949f5155544a2",
-                "reference": "d905788b495ef5832387cabe975949f5155544a2",
+                "url": "https://api.github.com/repos/YetiForceCompany/yii2-framework/zipball/672f0123882f71bf3cc3515c2cca2db6e91db21c",
+                "reference": "672f0123882f71bf3cc3515c2cca2db6e91db21c",
                 "shasum": ""
             },
             "require": {
@@ -4590,9 +4590,9 @@
                 "yii2"
             ],
             "support": {
-                "source": "https://github.com/YetiForceCompany/yii2-framework/tree/2.0.39.2"
+                "source": "https://github.com/YetiForceCompany/yii2-framework/tree/2.0.43"
             },
-            "time": "2020-11-19T07:05:31+00:00"
+            "time": "2021-10-29T10:44:56+00:00"
         },
         {
             "name": "zbateson/mail-mime-parser",
@@ -4830,5 +4830,5 @@
         "ext-hash": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }

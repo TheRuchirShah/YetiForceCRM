@@ -750,10 +750,10 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-quasar@^1.6.1:
-  version "1.16.0"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.16.0.tgz#b3eeba6c03860279fa6d423aeb0b83c884517481"
-  integrity sha512-w+XajlXYi1dRYHHD/oRydTv1G3G2edtZ+tWJjnPk4vYUlllUiVsredqrBwqoOogn8qRhpLVS6Og6pona+zIg5A==
+quasar@^2.4.4:
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.4.4.tgz#b1955634acce99f945a99629a52d1e969b2d0f27"
+  integrity sha512-5UvVhkPD6ftGABQZdo9RbNBL93Y4A6T+9yc6cyMi0XQjv0vmV3w9TIUZr6bUARTphQF6MKAzxAQ7ht0uAI0vqA==
 
 readable-stream@1.1:
   version "1.1.13"

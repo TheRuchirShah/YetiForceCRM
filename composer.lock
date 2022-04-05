@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f6ef6bb031ddb57b015dc7a94e0ce309",
+    "content-hash": "aed0f6963e8662cbe3e998b73d57920f",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -4502,16 +4502,16 @@
         },
         {
             "name": "yetiforce/yii2",
-            "version": "2.0.39.2",
+            "version": "2.0.45",
             "source": {
                 "type": "git",
                 "url": "https://github.com/YetiForceCompany/yii2-framework.git",
-                "reference": "d905788b495ef5832387cabe975949f5155544a2"
+                "reference": "a9d87cfcb2a8d801c4e2d1e3f0eab0db934124ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/YetiForceCompany/yii2-framework/zipball/d905788b495ef5832387cabe975949f5155544a2",
-                "reference": "d905788b495ef5832387cabe975949f5155544a2",
+                "url": "https://api.github.com/repos/YetiForceCompany/yii2-framework/zipball/a9d87cfcb2a8d801c4e2d1e3f0eab0db934124ba",
+                "reference": "a9d87cfcb2a8d801c4e2d1e3f0eab0db934124ba",
                 "shasum": ""
             },
             "require": {
@@ -4534,13 +4534,13 @@
                 {
                     "name": "Qiang Xue",
                     "email": "qiang.xue@gmail.com",
-                    "homepage": "http://www.yiiframework.com/",
+                    "homepage": "https://www.yiiframework.com/",
                     "role": "Founder and project lead"
                 },
                 {
                     "name": "Alexander Makarov",
                     "email": "sam@rmcreative.ru",
-                    "homepage": "http://rmcreative.ru/",
+                    "homepage": "https://rmcreative.ru/",
                     "role": "Core framework development"
                 },
                 {
@@ -4551,7 +4551,7 @@
                 {
                     "name": "Carsten Brandt",
                     "email": "mail@cebe.cc",
-                    "homepage": "http://cebe.cc/",
+                    "homepage": "https://www.cebe.cc/",
                     "role": "Core framework development"
                 },
                 {
@@ -4590,9 +4590,9 @@
                 "yii2"
             ],
             "support": {
-                "source": "https://github.com/YetiForceCompany/yii2-framework/tree/2.0.39.2"
+                "source": "https://github.com/YetiForceCompany/yii2-framework/tree/2.0.45"
             },
-            "time": "2020-11-19T07:05:31+00:00"
+            "time": "2022-03-29T11:16:44+00:00"
         },
         {
             "name": "zbateson/mail-mime-parser",
@@ -4830,5 +4830,5 @@
         "ext-hash": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.2.0"
 }

@@ -1943,27 +1943,27 @@
         },
         {
             "name": "nette/php-generator",
-            "version": "v3.6.2",
+            "version": "v3.6.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/php-generator.git",
-                "reference": "bce6abcd4090ab5eec24b78f26c753c6525a425c"
+                "reference": "9073c8ac505b5f65af3bc2d1665be7d256e2dbe3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/php-generator/zipball/bce6abcd4090ab5eec24b78f26c753c6525a425c",
-                "reference": "bce6abcd4090ab5eec24b78f26c753c6525a425c",
+                "url": "https://api.github.com/repos/nette/php-generator/zipball/9073c8ac505b5f65af3bc2d1665be7d256e2dbe3",
+                "reference": "9073c8ac505b5f65af3bc2d1665be7d256e2dbe3",
                 "shasum": ""
             },
             "require": {
                 "nette/utils": "^3.1.2",
-                "php": ">=7.2 <8.2"
+                "php": ">=7.2 <8.3"
             },
             "require-dev": {
                 "nette/tester": "^2.4",
-                "nikic/php-parser": "^4.11",
+                "nikic/php-parser": "^4.13",
                 "phpstan/phpstan": "^0.12",
-                "tracy/tracy": "^2.3"
+                "tracy/tracy": "^2.8"
             },
             "suggest": {
                 "nikic/php-parser": "to use ClassType::withBodiesFrom() & GlobalFunction::withBodyFrom()"
@@ -2005,33 +2005,33 @@
             ],
             "support": {
                 "issues": "https://github.com/nette/php-generator/issues",
-                "source": "https://github.com/nette/php-generator/tree/v3.6.2"
+                "source": "https://github.com/nette/php-generator/tree/v3.6.8"
             },
-            "time": "2021-09-23T21:48:24+00:00"
+            "time": "2022-09-12T22:13:59+00:00"
         },
         {
             "name": "nette/utils",
-            "version": "v3.2.5",
+            "version": "v3.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/utils.git",
-                "reference": "9cd80396ca58d7969ab44fc7afcf03624dfa526e"
+                "reference": "02a54c4c872b99e4ec05c4aec54b5a06eb0f6368"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/utils/zipball/9cd80396ca58d7969ab44fc7afcf03624dfa526e",
-                "reference": "9cd80396ca58d7969ab44fc7afcf03624dfa526e",
+                "url": "https://api.github.com/repos/nette/utils/zipball/02a54c4c872b99e4ec05c4aec54b5a06eb0f6368",
+                "reference": "02a54c4c872b99e4ec05c4aec54b5a06eb0f6368",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.2 <8.2"
+                "php": ">=7.2 <8.3"
             },
             "conflict": {
                 "nette/di": "<3.0.6"
             },
             "require-dev": {
                 "nette/tester": "~2.0",
-                "phpstan/phpstan": "^0.12",
+                "phpstan/phpstan": "^1.0",
                 "tracy/tracy": "^2.3"
             },
             "suggest": {
@@ -2090,9 +2090,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nette/utils/issues",
-                "source": "https://github.com/nette/utils/tree/v3.2.5"
+                "source": "https://github.com/nette/utils/tree/v3.2.8"
             },
-            "time": "2021-09-20T10:50:11+00:00"
+            "time": "2022-09-12T23:36:20+00:00"
         },
         {
             "name": "parsecsv/php-parsecsv",
@@ -4830,5 +4830,5 @@
         "ext-hash": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
